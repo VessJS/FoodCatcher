@@ -1,0 +1,11 @@
+{
+  "name": "foodcatcher",
+  "version": "1.0.0",
+  "description": "Simple game created for excercise purpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcin Andrzejewski",
+  "license": "ISC"
+}

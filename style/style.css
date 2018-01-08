@@ -1,0 +1,12 @@
+html, body {
+    background: #7c91b2;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
