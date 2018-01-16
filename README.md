@@ -1,2 +1,2 @@
 # FoodCatcher
-Simple game created for excercise purpose.
+Game created for exercises.
